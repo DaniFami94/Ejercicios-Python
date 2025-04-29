@@ -39,9 +39,9 @@
 
 - Example: Linear search through an unsorted array.
 
-- Comparison: The runtime increases proportionally to the input size.   
+- Comparison: The runtime increases proportionally to the input size.
 
-`O(log n) Logarithmic Time Complexity`: As n grow really large, the number of operations to find the result grows very slowly and flattens out. 
+`O(log n) Logarithmic Time Complexity`: As n grow really large, the number of operations to find the result grows very slowly and flattens out.
 
 - Description: Algorithms with logarithmic time complexity have their runtime grow logarithmically with the input size.
 
@@ -85,3 +85,4 @@
 - Comparison: Highly inefficient, with the runtime growing extremely fast with the input size.
 
 # Space complexity is a measure of how much working storage or extra storage is needed as a particular algorithm grows
+```
